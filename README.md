@@ -14,6 +14,7 @@ Have you ever felt that twin transmission in Sprocket is just that tad weaker th
 This is because Sprocket divides the total torque output by the engine into two halves for each gearbox, hence to each track. But for clutch-brakes, the game give 100% of torque into the single gearbox, and that somehow means each track receive 100% torque instead of 50%.<br>
 This mod fixes that by doubling torque power for each gearbox in twin transmission. Simply select twin transmission, and a second selection tab appears that allows you to select the improved variant.<br>
 Save safe, the game will simply treat the modded vehicle as vanilla twin transmission if loaded without the mod.<br>
+This mod really is made partially redundent by the previous mod, but hey, if anybody want to make a modern A7V...I guess?<br>
 
 ---
 ## Weapon Orders
