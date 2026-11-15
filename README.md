@@ -1,5 +1,6 @@
 # Lie-s-Sprocket-Mods
-Repo for Lie's mods for the tank designer game Sprocket
+Repo for Lie's mods for the tank designer game Sprocket.<br>
+AI use: The following mods are made with heavy AI assistance, which includes research into the game's code, feasibility studies, coding and patching. All mods however are manually tested to work for all listed compatible game versions, and all "save-safe" features are also manually tested.
 
 ---
 ## True Differential Steering
