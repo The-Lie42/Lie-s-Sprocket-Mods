@@ -4,8 +4,8 @@ AI use: The following mods are made with heavy AI assistance, which includes res
 
 ---
 ## Lie's Transmission Rework
-A comprehensive transmission overhaul that simulates differential steering with power redistribution, torque fixes for Twin-Transmission, and improved meshing system that simulates modern transmission systems that partially retains torque during shifting.<dr>
-For Sprocket 0.2.55.5 and 0.2.56.1<dr>
+A comprehensive transmission overhaul that simulates differential steering with power redistribution, torque fixes for Twin-Transmission, and improved meshing system that simulates modern transmission systems that partially retains torque during shifting.<br>
+For Sprocket 0.2.55.5 and 0.2.56.1<br>
 
 ### True Differential Steering
 The way vanilla Sprocket do neutral steering baffles me. Twin transmission uses two independent gearboxes which can be shifted separately to achieve neutral steering, which to my knowledge the last notable implementation was on the A7V.<br>
@@ -21,6 +21,6 @@ Save safe, the game will simply treat the modded vehicle as vanilla twin transmi
 This mod really is made partially redundent by the previous mod, but hey, if anybody want to make a modern A7V...I guess?<br>
 
 ### Modern Synchromesh
-Modern tank gearboxes can achieve a shift in about 0.4-0.6s under normal situations. Sprocket ones achieve a shift in about 1 second. This mod adds another mesh type to bring Sprocket ones up to modern standards. This mesh type also comes with the benefit that the gearbox partially retains torque output during shifting, similar to modern NATO and Chinese MBTs.<dr>
-Simply select Synchromesh (Modern) in mesh type in your transmission.<dr>
+Modern tank gearboxes can achieve a shift in about 0.4-0.6s under normal situations. Sprocket ones achieve a shift in about 1 second. This mod adds another mesh type to bring Sprocket ones up to modern standards. This mesh type also comes with the benefit that the gearbox partially retains torque output during shifting, similar to modern NATO and Chinese MBTs.<br>
+Simply select Synchromesh (Modern) in mesh type in your transmission.<br>
 Save safe, the game will simply treat the modded vehicle as vanilla Synchromesh if loaded without the mod.<br>
